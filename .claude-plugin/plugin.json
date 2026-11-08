@@ -16,5 +16,10 @@
     "literature",
     "science",
     "bibliometrics"
-  ]
+  ],
+  "icon": "./assets/pendar-logo.png",
+  "documentationUrl": "https://pendar.ai/support/connectors/",
+  "supportUrl": "https://pendar.ai/support/",
+  "privacyPolicyUrl": "https://pendar.ai/privacy/",
+  "termsOfServiceUrl": "https://pendar.ai/terms/"
 }
