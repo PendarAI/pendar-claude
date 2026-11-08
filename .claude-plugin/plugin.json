@@ -1,0 +1,20 @@
+{
+  "name": "pendar",
+  "displayName": "Pendar",
+  "version": "1.0.0",
+  "description": "See the bigger picture of research: how fields are structured, how ideas connect, and where science is heading. Explore your own research and the areas you have not yet explored, map any field, trace a paper's influence, and verify references, with evidence from the published literature. Uses the Pendar connector and your Pendar account.",
+  "author": {
+    "name": "Pendarlabs",
+    "email": "admin@pendar.ai",
+    "url": "https://pendar.ai"
+  },
+  "homepage": "https://pendar.ai/support/connectors/",
+  "repository": "https://github.com/PendarAI/pendar-claude",
+  "keywords": [
+    "research",
+    "research-mapping",
+    "literature",
+    "science",
+    "bibliometrics"
+  ]
+}
